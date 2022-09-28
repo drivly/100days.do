@@ -25,9 +25,7 @@ For example, if you have a large and complex JSON document that's not in your pr
       "contactName": "Allen, Michael",
       "contactTitle": "Sales Representative"
     },
-    ...
   ]
-  ...
 }
 ```
 
@@ -51,8 +49,7 @@ You could easily restructure and re-organize it:
     "companyName": "Customer NRZBB",
     "contactName": "Allen, Michael",
     "contactTitle": "Sales Representative"
-  },
-  ...
+  }
 }
 ```
 
