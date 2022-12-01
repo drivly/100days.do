@@ -32,7 +32,7 @@ For example, if you have a large and complex JSON document that's not in your pr
 
 You could easily restructure and re-organize it:
 
-<https://lodash.do/map/Products.name/json.fyi/northwind.json>
+<https://lodash.do/get/Product/map/productName/json.fyi/northwind.json>
 
 ```json
 {
